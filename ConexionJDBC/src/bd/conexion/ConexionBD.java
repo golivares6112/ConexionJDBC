@@ -11,7 +11,7 @@ public class ConexionBD {
 	private static String basedatos="test";
 	private static String url="jdbc:mysql://localhost/" + basedatos;
 	private static String user ="root";
-	private static String password="leviatan6112";
+	private static String password="********";
 	
 	
 	public static void main(String[] args)
