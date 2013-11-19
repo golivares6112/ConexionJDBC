@@ -13,7 +13,7 @@ public class ConexionBD {
 	private static String user ="root";
 	private static String password="********";
 	
-	
+	//funcion principal
 	public static void main(String[] args)
 	{
 		try {
